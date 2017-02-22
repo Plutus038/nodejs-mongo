@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Build RESTful API using Node and MongoDB
 
 ## Installation : 
@@ -24,9 +23,3 @@ Hit following URL's :
 ## Tutorial link : 
 
 https://codeforgeek.com/2015/08/restful-api-node-mongodb/
-
-
-
-=======
-# nodejs-mongo
->>>>>>> 480dbcc4b88c8c20f0603aa54f1184be3724f899
